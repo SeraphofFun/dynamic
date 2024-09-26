@@ -1,0 +1,3 @@
+﻿  dynamic.cpp
+C:\Users\ASUS\source\repos\dynamic\dynamic\dynamic.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dynamic.vcxproj -> C:\Users\ASUS\source\repos\dynamic\x64\Debug\dynamic.exe
